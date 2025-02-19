@@ -1,0 +1,27 @@
+{
+    "name": "@types/randombytes",
+    "version": "2.0.3",
+    "description": "TypeScript definitions for randombytes",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/randombytes",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "BendingBender",
+            "githubUsername": "BendingBender",
+            "url": "https://github.com/BendingBender"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/randombytes"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/node": "*"
+    },
+    "typesPublisherContentHash": "33d5a82f9d5e25c49d01d542997169a0850a1bafd21dd70aa15d61be43e92dae",
+    "typeScriptVersion": "4.5"
+}
