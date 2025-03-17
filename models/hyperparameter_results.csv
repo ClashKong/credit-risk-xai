@@ -1,0 +1,3 @@
+,Random Forest,XGBoost
+Best Params,"{'max_depth': None, 'min_samples_split': 5, 'n_estimators': 200}","{'learning_rate': 0.2, 'max_depth': 6, 'n_estimators': 50}"
+F1-Score,0.29660377358490564,0.3086744273375892
